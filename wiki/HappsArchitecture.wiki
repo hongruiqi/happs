@@ -1,0 +1,12 @@
+#summary HAppS architecture.
+
+= Introduction =
+
+This is an overview of the HAppS architecture.
+
+= Details =
+
+Add your content here.  Format your content with:
+  * The user defines a state type that is automatically persistent.
+  * On the browser side, state is emitted as xml and marked up with xslt.
+  * Structurally, a HAppS application is a list/tree of handlers that are tried in order.
