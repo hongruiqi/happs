@@ -1,0 +1,5 @@
+#summary How to access happs source
+
+= Introduction =
+
+The source is available via darcs.  See http://happs.org
