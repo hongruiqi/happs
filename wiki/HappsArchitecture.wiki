@@ -1,5 +1,7 @@
 #summary HAppS architecture.
 
+*Note, this page is out of date*
+
 = Introduction =
 
 This is an overview of the HAppS architecture.
