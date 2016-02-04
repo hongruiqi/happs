@@ -1,0 +1,1 @@
+HAppS is a framework for developing Internet services quickly, deploying them easily, scaling them massively, and managing them ziplessly. Web, persistence, mail, DNS and database servers are all built-in so you can focus on app development rather than integrating and babysitting lots of different servers/services (the Haskell type system keeps everything consistent).
